@@ -19,14 +19,6 @@ The aim of this project is to build a Convolutional Neural Network (CNN) to clas
 
 The Aarhus University Signal Processing group, in collaboration with the University of Southern Denmark, has recently released a dataset containing images of unique plants belonging to 12 different species.
 
-### Dataset Information
-
-- The dataset can be downloaded from Olympus.
-- The data file names are:
-  - `images.npy`
-  - `Labels.csv`
-- Due to the large volume of data, the images were converted to the `images.npy` file and the labels are also put into `Labels.csv`, so that you can work on the data/project seamlessly without having to worry about the high data volume.
-
 ### Goal
 
 The goal of the project is to create a classifier capable of determining a plant's species from an image.
